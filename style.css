@@ -1,0 +1,20 @@
+body{
+        background-color: #FAEDF0;
+        margin: auto;
+        font-size: 16px;
+}
+
+h1{
+        margin: auto;
+}
+
+img{
+        display: block;
+        height: 40%;
+        width: 70%;
+        margin: auto;
+}
+
+div{
+        margin: 10px 100px;
+}
