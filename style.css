@@ -1,11 +1,6 @@
 body{
         background-color: #FAEDF0;
-        margin: auto;
         font-size: 16px;
-}
-
-h1{
-        margin: auto;
 }
 
 img{
@@ -17,4 +12,8 @@ img{
 
 div{
         margin: 10px 100px;
+}
+
+p{
+        display: inline-block;
 }
